@@ -1,2 +1,2 @@
 # Python100
-https://github.com/ZoeKuan/Python-programming-exercises
+https://github.com/zhiwehu/Python-programming-exercises
